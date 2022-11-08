@@ -100,7 +100,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="site-info">
-							<p style="text-align:center;">All copyrights reserved &copy; 2018 - Developed by <a href="#" rel="nofollow">Kaisar & Team</a></p>
+							<p style="text-align:center;">All copyrights reserved &copy; 2018 - Developed by <a href="#" rel="nofollow">Md Fahad Uz-Zaman</a></p>
 						</div>
 					</div>
 				</div>
